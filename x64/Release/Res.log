@@ -1,0 +1,6 @@
+﻿  Res.cpp
+C:\Users\andre\Documents\GitHub\res\Res.cpp(34,9): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+C:\Users\andre\Documents\GitHub\res\Res.cpp(133,15): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+C:\Users\andre\Documents\GitHub\res\Res.cpp(249,3): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1363,5): warning MSB8012: TargetPath(C:\Users\andre\Documents\GitHub\res\x64\Release\Res.exe) does not match the Linker's OutputFile property value (C:\Users\andre\Documents\GitHub\res\Release\Res.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  Res.vcxproj -> C:\Users\andre\Documents\GitHub\res\x64\Release\Res.exe
